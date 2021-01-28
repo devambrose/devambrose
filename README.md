@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+<h1>Devambrose</h1><br/>
+<p>Full Stark Software Developer</p><br/>
+<b><small>NODE JS| REACT JS| ELECTRON JS | PYTHON |PHP |ANDROID KOTLIN & JAVA | </small></b><br/>
 -Website :<a href='http://itsambrose.space'>devambrose.space</a>
 -Linkedin profile :<a href='https://www.linkedin.com/in/ambrose-mwangi/'>devambrose</a>
 - 🔭 I’m currently working on http://24hourtax.tech...
