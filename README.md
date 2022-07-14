@@ -6,5 +6,5 @@
 -Website :<a href='http://itsambrose.space'>devambrose.space</a><br/>
 -Linkedin profile :<a href='https://www.linkedin.com/in/ambrose-mwangi/'>devambrose</a><br/>
 - 🌱 I’m currently learning .NET CORE | Kotlin KVVM<br/>
-- 👯 I’m open to any job positions | Collabs<br/>
+- 👯 I’m open to Collabs<br/>
 - 📫 How to reach me: <a href='https://t.me/Ambuh'>Telegram</a><br/>
